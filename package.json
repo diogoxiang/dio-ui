@@ -1,0 +1,26 @@
+{
+  "name": "dio-ui",
+  "version": "1.0.0",
+  "description": "Mobile UI  for vue.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoxiang/dio-ui.git"
+  },
+  "keywords": [
+    "dio",
+    "dio-ui"
+  ],
+  "author": "diogoxiang@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoxiang/dio-ui/issues"
+  },
+  "homepage": "https://github.com/diogoxiang/dio-ui#readme"
+}
