@@ -1,0 +1,26 @@
+{
+  // "extends": "",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "./built",
+    "rootDir": "src",
+    "declaration": true,
+    "downlevelIteration": true,
+    "inlineSources": true,
+    "lib": ["es6", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es6"
+  },
+  "exclude": [],
+  "include": ["src/**/*.ts"]
+}
