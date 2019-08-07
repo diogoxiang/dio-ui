@@ -1,4 +1,5 @@
 function greeter(person:any) {
+    console.log("diogodiogoxiang");
     return "Hello, " + person;
 }
 

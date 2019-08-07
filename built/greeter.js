@@ -1,5 +1,6 @@
 "use strict";
 function greeter(person) {
+    console.log("diogodiogoxiang");
     return "Hello, " + person;
 }
 let user = "Jane Userssss";
